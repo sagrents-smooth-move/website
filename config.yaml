@@ -1,0 +1,15 @@
+baseURL: "http://example.org/"
+languageCode: "en-us"
+title: "Sargent's Smooth Move"
+theme: "ananke"
+
+enableRobotsTXT: true
+sitemap:
+  changefreq: "monthly"
+  priority: 0.5
+  filename: "sitemap.xml"
+
+params:
+  favicon: "images/favicon.ico"
+  site_logo: "images/ssm-full_logo.png"
+  description: "You moving services in the New Hampshire area"
