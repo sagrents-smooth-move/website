@@ -13,3 +13,6 @@ params:
   favicon: "images/favicon.ico"
   site_logo: "images/ssm-full_logo.png"
   description: "You moving services in the New Hampshire area"
+  ananke_socials:
+    - name: facebook
+      url: https://facebook.com
